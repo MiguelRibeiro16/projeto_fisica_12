@@ -78,4 +78,12 @@ body {
   color: #fff;
   padding: 10px;
   text-align: center;
+}
+.butaosecreto {
+  background-color: #333;
+  border-color: #333;
+  padding-left: 1px;
+  border-left: #333;
+  border-top: #333;
+  border-bottom: #333;
 }/*# sourceMappingURL=css.css.map */
